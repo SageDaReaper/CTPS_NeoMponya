@@ -27,5 +27,3 @@ etc
 Team 
 Github link 
 email 
-
-My Favourite Prooject
