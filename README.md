@@ -9,9 +9,13 @@ To provide rapid, discreet and location-aware alert system for residents in **[y
 This repository contains all source code , assets, and documentation for __[App name]__ community safety alert mobile application 
 
 ## Your Learning Goals
+
 *Mobile Development* - android , ios
+
 *Real-time location services* 
+
 _Security_
+
 _User Experience_
 
 ## How the repository is Organized (folder/files)
