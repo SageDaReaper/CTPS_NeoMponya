@@ -1,0 +1,6 @@
+doc,docx(word doc), ppt(presentation), xls(spreadsheet) (needs software to open unless its on cloud service provider eg Microsoft OneDrive , Google Drive) (office based)
+
+
+txt(text file UTF-8 ), html(webpages), md (markdown files (based on ReadMe instructions)) etc - works generally with all platforms like eg github 
+
+
